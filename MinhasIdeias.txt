@@ -1,0 +1,6 @@
+1) Pesquisar e aparecer as informações pelo pokemon buscado
+
+2) Pesquisar um pokemon e aparece os principais para derrotar o pokemon byscado
+
+Sobre a imagem de fundo:
+· Colocar um No Repeate para evitar a replicação da imagem
